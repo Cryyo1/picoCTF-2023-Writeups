@@ -12,7 +12,7 @@ SQL query: SELECT id FROM users WHERE password = 'admin' AND username = 'admin'
 username= blah
 password = blah' or 1=1;--
 ```
-<img align="center" src="./images/login.png">
+<img align="center" src="./images/home.png">
 
 ## 2- retrieving the data from the search box and the display
 
